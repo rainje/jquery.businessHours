@@ -9,8 +9,7 @@
     },
     "license": "APACHE",
     "dependencies": {
-        "jquery": ">=1.7",
-        "jt.timepicker": "~1.4.13"
+        "jquery": ">=1.7"
     },
     "devDependencies": {
         "grunt": "~0.4.1",
